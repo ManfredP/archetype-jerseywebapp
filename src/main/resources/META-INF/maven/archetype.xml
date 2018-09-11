@@ -6,6 +6,7 @@
     <sources>
         <source>src/main/java/RestApplicationPath.java</source>
         <source>src/main/java/MyResource.java</source>
+        <source>src/main/java/MainContextListener.java</source>
     </sources>
     <resources>
         <resource>src/main/webapp/index.jsp</resource>
